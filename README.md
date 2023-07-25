@@ -57,6 +57,6 @@
 <p>One challenge encountered during the project was handling missing values in the dataset. To address this, I decided to remove the rows with missing values, ensuring that the data used for modeling was clean and complete.</p>
 
 <h2>Project Report:</h2>
-<p>The detailed project report, including the methodology, data analysis, model building, and evaluation results, can be found in the <a href="link-to-the-report">project report</a> within this repository.</p>
+<p>The detailed project report, including the methodology, data analysis, model building, and evaluation results, can be found in the <a href="https://github.com/adityalawand7/IBM-Applied-Data-Science-Capstone/blob/main/IBM%20Data%20Science%20Capstone%20ADL%202023.pdf">project report</a> within this repository.</p>
 
 <p>Feel free to explore the code and documentation in this repository to gain insights into the project and its findings. If you have any questions or feedback, please don't hesitate to contact me at the provided email address.</p>
