@@ -1,4 +1,4 @@
-<body>
+
     <h1>SpaceX Falcon 9 First Stage Landing Prediction</h1>
 
     <h2>Project Overview:</h2>
@@ -60,5 +60,3 @@
     <p>The detailed project report, including the methodology, data analysis, model building, and evaluation results, can be found in the <a href="link-to-the-report">project report</a> within this repository.</p>
 
     <p>Feel free to explore the code and documentation in this repository to gain insights into the project and its findings. If you have any questions or feedback, please don't hesitate to contact me at the provided email address.</p>
-</body>
-</html>
